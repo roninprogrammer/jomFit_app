@@ -8,14 +8,25 @@
     "eject": "expo eject"
   },
   "dependencies": {
+    "antd-mobile": "^2.2.14",
     "expo": "^33.0.0",
     "firebase": "^6.2.3",
+    "moment": "^2.24.0",
     "native-base": "^2.12.1",
     "react": "16.8.3",
     "react-dom": "^16.8.6",
     "react-native": "https://github.com/expo/react-native/archive/sdk-33.0.0.tar.gz",
+    "react-native-countdown": "^0.0.3",
+    "react-native-countdown-clock": "^2.0.2",
+    "react-native-countdown-component": "^2.5.0",
+    "react-native-countdown-hint": "^0.0.3",
+    "react-native-render-html": "^4.1.2",
+    "react-native-star-rating": "^1.1.0",
+    "react-native-swiper-flatlist": "^1.0.10",
+    "react-native-timeago": "^0.4.0",
     "react-native-web": "^0.11.4",
-    "react-navigation": "^3.11.0"
+    "react-navigation": "^3.11.0",
+    "tcomb-form-native": "^0.6.20"
   },
   "devDependencies": {
     "babel-preset-expo": "^5.1.1"
