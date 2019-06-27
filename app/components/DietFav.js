@@ -8,7 +8,7 @@ import ConfigApp from '../utils/ConfigApp';
 import ListEmpty from './ListEmpty';
 
 
-var styles = require('../../assets/files/Styles');
+var styles = require('../../assets/scss/Styles');
 var {height, width} = Dimensions.get('window');
 
 class DietFav extends React.Component {

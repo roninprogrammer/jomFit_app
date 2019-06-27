@@ -3,7 +3,7 @@ import { View, NetInfo, Dimensions, Image } from 'react-native';
 import { Text, Button } from 'native-base';
 import Strings from '../utils/Strings';
 const { width, height } = Dimensions.get('window'); 
-var styles = require('../../assets/files/Styles');
+var styles = require('../../assets/scss/Styles');
 
 function MiniOfflineSign() {
   return (

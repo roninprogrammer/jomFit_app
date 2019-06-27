@@ -8,7 +8,7 @@ import { Container, Text, List, ListItem, Left, Right, Body } from 'native-base'
 import ConfigApp from '../utils/ConfigApp';
 import Strings from '../utils/Strings';
 
-var styles = require('../../assets/files/Styles');
+var styles = require('../../assets/scss/Styles');
 var {height, width} = Dimensions.get('window');
 
 export default class Settings extends Component {

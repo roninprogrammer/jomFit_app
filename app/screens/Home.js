@@ -7,7 +7,7 @@ import { Container, Header, Content, Card, CardItem, Body, Text, Footer, FooterT
 
 import Strings from '../utils/Strings';
 
-var styles = require('../../assets/files/Styles');
+var styles = require('../../assets/scss/Styles');
 var {height, width} = Dimensions.get('window');
 
 export default class Home extends Component {

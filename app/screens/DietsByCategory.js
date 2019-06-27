@@ -11,7 +11,7 @@ import Strings from '../utils/Strings';
 import BannerAd from '../components/BannerAd';
 
 
-var styles = require('../../assets/files/Styles');
+var styles = require('../../assets/scss/Styles');
 var {height, width} = Dimensions.get('window');
 
 export default class DietsByCategory extends Component {

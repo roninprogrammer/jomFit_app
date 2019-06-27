@@ -14,7 +14,7 @@ import ToastModal from '../components/ToastModal';
 import {Toast} from 'antd-mobile';
 const Checked = () => (<ToastModal title="Saved!"/>);
 
-var styles = require('../../assets/files/Styles');
+var styles = require('../../assets/scss/Styles');
 var {height, width} = Dimensions.get('window');
 
 export default class Quotes extends Component {

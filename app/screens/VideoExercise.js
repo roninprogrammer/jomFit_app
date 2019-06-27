@@ -9,7 +9,7 @@ import ConfigApp from '../utils/ConfigApp';
 
 import CountDown from 'react-native-countdown-component';
 
-var styles = require('../../assets/files/Styles');
+var styles = require('../../assets/scss/Styles');
 var {height, width} = Dimensions.get('window');
 
 export default class ExerciseDetails extends Component {

@@ -11,7 +11,7 @@ import HTML from 'react-native-render-html';
 import Strings from '../utils/Strings';
 
 
-var styles = require('../../assets/files/Styles');
+var styles = require('../../assets/scss/Styles');
 var {height, width} = Dimensions.get('window');
 
 export default class Terms extends Component {

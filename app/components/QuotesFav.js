@@ -9,7 +9,7 @@ import ConfigApp from '../utils/ConfigApp';
 import ListEmpty from './ListEmpty';
 import Strings from '../utils/Strings';
 
-var styles = require('../../assets/files/Styles');
+var styles = require('../../assets/scss/Styles');
 var {height, width} = Dimensions.get('window');
 
 class QuotesFav extends React.Component {

@@ -1,6 +1,6 @@
 import PropTypes from 'prop-types';
 import React, {Component} from 'react';
-var styles = require('../../assets/files/Styles');
+var styles = require('../../assets/scss/Styles');
 import {NavigationActions} from 'react-navigation';
 import {Dimensions, ScrollView, View, Image, TouchableOpacity} from 'react-native';
 import { Container, Header, Content, List, ListItem, Text, Left, Thumbnail, Icon, Body, Right, Switch } from 'native-base';

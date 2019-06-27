@@ -1,5 +1,5 @@
 import 	React, {Component} from 'react';
-var styles = require('../../assets/files/Styles');
+var styles = require('../../assets/scss/Styles');
 import {Alert, Image} from 'react-native';
 import BackgroundImage from "../components/BackgroundImage";
 import { Container, Body, Footer, Input, Icon, Item, Text, Card, View, Button} from 'native-base';

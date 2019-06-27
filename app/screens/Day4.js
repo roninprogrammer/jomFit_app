@@ -12,7 +12,7 @@ import BannerAd from '../components/BannerAd';
 import RestDay from '../components/RestDay';
 
 
-var styles = require('../../assets/files/Styles');
+var styles = require('../../assets/scss/Styles');
 var {height, width} = Dimensions.get('window');
 
 export default class Day4 extends Component {

@@ -11,7 +11,7 @@ import ConfigApp from '../utils/ConfigApp';
 
 import BannerAd from '../components/BannerAd';
 
-var styles = require('../../assets/files/Styles');
+var styles = require('../../assets/scss/Styles');
 var {height, width} = Dimensions.get('window');
 
 export default class ExercisesByMuscle extends Component {

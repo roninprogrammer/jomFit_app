@@ -9,7 +9,7 @@ import { Container, Text} from 'native-base';
 
 import ConfigApp from '../utils/ConfigApp';
 
-var styles = require('../../assets/files/Styles');
+var styles = require('../../assets/scss/Styles');
 var {height, width} = Dimensions.get('window');
 
 export default class WorkoutsByLevel extends Component {
